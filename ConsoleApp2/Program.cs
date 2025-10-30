@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Emir");
             Console.ReadLine();
+            Console.WriteLine("halloo");
         }
     }
 }
